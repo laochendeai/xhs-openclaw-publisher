@@ -170,6 +170,21 @@ node scripts/xhs-publish.mjs \
 
 ---
 
+## License
+
+MIT
+
+---
+
+## Changelog
+
+见：
+
+- `CHANGELOG.md`
+- `RELEASE.md`
+
+---
+
 ## 当前状态
 
 目前已经验证通过的链路包括：
